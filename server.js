@@ -2,7 +2,7 @@ const {join} = require("path");
 
 const Db = require(join(__dirname,".","config","db.js"))
 
-// const DbSeeder = require(join(__dirname,".","seeder","seeder"))
+const DbSeeder = require(join(__dirname,".","seeder","seeder"))
 
 const {restaurantRoute}= require(join(__dirname,".","router","restaurant.routes"))
 
@@ -19,7 +19,7 @@ Db();
 
 
 
-// DbSeeder();
+DbSeeder();
 
 //routes initialization
 
