@@ -1,5 +1,8 @@
 # RESTAURANT API DEVELOPED WITH EXPRESS, NODE.JS AND MONGODB
 
+RESTAURANT API
+
+
 The compression package was used to speed up the server
 
 ## PROJECT DEPENDENCIES
@@ -37,18 +40,18 @@ This project was developed using the following packages
 
 #### LINKS
 
-Thos project is currently being hosted on [https://foodfrontend-3vtz.onrender.com](https://foodfrontend-3vtz.onrender.com)
+Thos project is currently being hosted on [https://food-backend-yeag.onrender.com](https://food-backend-yeag.onrender.com)
 
-1. To retrieve all available restaurants visit [https://foodfrontend-3vtz.onrender.com/restauramts](https://foodfrontend-3vtz.onrender.com/restaurants);
+1. To retrieve all available restaurants visit [https://food-backend-yeag.onrender.com/restauramts](https://food-backend-yeag.onrender.com/restaurants);
 
-2. To retrieve Highest rated restaurant visit [https://foodfrontend-3vtz.onrender.com/restaurants/highest-rated](https://foodfrontend-3vtz.onrender.com/restaurants/highest-rated)
+2. To retrieve Highest rated restaurant visit [https://food-backend-yeag.onrender.com/restaurants/highest-rated](https://food-backend-yeag.onrender.com/restaurants/highest-rated)
 
-3. To retrieve Most Popular restaurants vist [https://foodfrontend-3vtz.onrender.com/most-popular](https://foodfrontend-3vtz.onrender.com/most-popular)
+3. To retrieve Most Popular restaurants vist [https://food-backend-yeag.onrender.com/most-popular](https://food-backend-yeag.onrender.com/most-popular)
 
-4. To retrieve Latest restaurants visit [https://foodfrontend-3vtz.onrender.com/latest](https://foodfrontend-3vtz.onrender.com/latest)
+4. To retrieve Latest restaurants visit [https://food-backend-yeag.onrender.com/latest](https://food-backend-yeag.onrender.com/latest)
 
-5. To retrieve Most Rated restaurants visit [https://foodfrontend-3vtz.onrender.com/most-rated](https://foodfrontend-3vtz.onrender.com/most-rated)
+5. To retrieve Most Rated restaurants visit [https://food-backend-yeag.onrender.com/most-rated](https://food-backend-yeag.onrender.com/most-rated)
 
-6. To retrieve based on a food name visit [https://foodfrontend-3vtz.onrender.com/dish?dish=name-of-food](https://foodfrontend-3vtz.onrender.com/dish?dish=rice)
+6. To retrieve based on a food name visit [https://food-backend-yeag.onrender.com/dish?dish=name-of-food](https://food-backend-yeag.onrender.com/dish?dish=rice)
 
-5. To retrieve all available tags visit [https://foodfrontend-3vtz.onrender.com/tags](https://foodfrontend-3vtz.onrender.com/tags)
+5. To retrieve all available tags visit [https://food-backend-yeag.onrender.com/tags](https://food-backend-yeag.onrender.com/tags)
