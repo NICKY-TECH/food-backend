@@ -12,11 +12,30 @@ This project was developed using the following packages
 
 3. Mongodb
 
-4. Compression
+4. Compressio
 
-5. Cors
 
-### LINKS
+### Build Process
+
+1. Initialize Project
+
+2. Organize Project Structure
+
+2. Install Dependencies
+
+3. Seed the Database
+
+4. Initialize Git
+
+5. Add API logic
+
+6. Test
+
+7. Push to Github
+
+7. Host
+
+#### LINKS
 
 Thos project is currently being hosted on [https://foodfrontend-3vtz.onrender.com](https://foodfrontend-3vtz.onrender.com)
 
@@ -26,4 +45,10 @@ Thos project is currently being hosted on [https://foodfrontend-3vtz.onrender.co
 
 3. To retrieve Most Popular restaurants vist [https://foodfrontend-3vtz.onrender.com/most-popular](https://foodfrontend-3vtz.onrender.com/most-popular)
 
-4. To retrieve 
+4. To retrieve Latest restaurants visit [https://foodfrontend-3vtz.onrender.com/latest](https://foodfrontend-3vtz.onrender.com/latest)
+
+5. To retrieve Most Rated restaurants visit [https://foodfrontend-3vtz.onrender.com/most-rated](https://foodfrontend-3vtz.onrender.com/most-rated)
+
+6. To retrieve based on a food name visit [https://foodfrontend-3vtz.onrender.com/dish?dish=name-of-food](https://foodfrontend-3vtz.onrender.com/dish?dish=rice)
+
+5. To retrieve all available tags visit [https://foodfrontend-3vtz.onrender.com/tags](https://foodfrontend-3vtz.onrender.com/tags)
