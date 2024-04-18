@@ -12,6 +12,8 @@ const express = require("express");
 
 const compression =require("compression")
 
+const cors = require("cors");
+
 const app = express();
 
 // calling the database function to launch db connection
@@ -28,6 +30,13 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }));
 
 app.use(compression())
+
+app.use(cors({
+    origin:['http://localhost:3000',
+    "https://weather-frontend-beige.vercel.app",
+    "https://lucent-axolotl-005c7f.netlify.app"
+  ]
+  }));
 
 app.use("/restaurants",restaurantRoute);
 
