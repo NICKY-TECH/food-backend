@@ -42,16 +42,16 @@ This project was developed using the following packages
 
 Thos project is currently being hosted on [https://food-backend-yeag.onrender.com](https://food-backend-yeag.onrender.com)
 
-1. To retrieve all available restaurants visit [https://food-backend-yeag.onrender.com/restauramts](https://food-backend-yeag.onrender.com/restaurants);
+1. To retrieve all available restaurants visit [https://food-backend-yeag.onrender.com/restaurants](https://food-backend-yeag.onrender.com/restaurants);
 
 2. To retrieve Highest rated restaurant visit [https://food-backend-yeag.onrender.com/restaurants/highest-rated](https://food-backend-yeag.onrender.com/restaurants/highest-rated)
 
-3. To retrieve Most Popular restaurants vist [https://food-backend-yeag.onrender.com/most-popular](https://food-backend-yeag.onrender.com/most-popular)
+3. To retrieve Most Popular restaurants vist [https://food-backend-yeag.onrender.com/restaurants/most-popular](https://food-backend-yeag.onrender.com/restaurants/most-popular)
 
-4. To retrieve Latest restaurants visit [https://food-backend-yeag.onrender.com/latest](https://food-backend-yeag.onrender.com/latest)
+4. To retrieve Latest restaurants visit [https://food-backend-yeag.onrender.com/restaurants/latest](https://food-backend-yeag.onrender.com/restaurants/latest)
 
-5. To retrieve Most Rated restaurants visit [https://food-backend-yeag.onrender.com/most-rated](https://food-backend-yeag.onrender.com/most-rated)
+5. To retrieve Most Rated restaurants visit [https://food-backend-yeag.onrender.com/restaurants/most-rated](https://food-backend-yeag.onrender.com/restaurants/most-rated)
 
-6. To retrieve based on a food name visit [https://food-backend-yeag.onrender.com/dish?dish=name-of-food](https://food-backend-yeag.onrender.com/dish?dish=rice)
+6. To retrieve based on a food name visit [https://food-backend-yeag.onrender.com/restaurants/dish?dish=name-of-food](https://food-backend-yeag.onrender.com/restaurants/dish?dish=rice)
 
 5. To retrieve all available tags visit [https://food-backend-yeag.onrender.com/tags](https://food-backend-yeag.onrender.com/tags)
