@@ -33,8 +33,7 @@ app.use(compression())
 
 app.use(cors({
     origin:['http://localhost:3000',
-    "https://weather-frontend-beige.vercel.app",
-    "https://lucent-axolotl-005c7f.netlify.app"
+   "https://foodfrontend-3vtz.onrender.com"
   ]
   }));
 
